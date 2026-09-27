@@ -1,6 +1,6 @@
 # Department Notice Archive
 
-## DBMS Unit 4 – Secure Hosted PHP-MySQL Mini Project
+## DBMS Unit 4 - Secure Hosted PHP-MySQL Mini Project
 
 A database-driven web application for storing, displaying, and filtering department notices.
 
@@ -54,6 +54,11 @@ MySQL Database → PHP (`view.php`) → Browser
 ## Hosting
 
 The project is hosted on InfinityFree and connected to a MySQL database.
+
+## Project Links
+
+- Live Demo: https://departmentnoticearchive.kesug.com/Department_Notice_Archive/
+- Source Code: https://github.com/bhumikasonkusare2005-spec/department-notice-archive
 
 ## Project Purpose
 
